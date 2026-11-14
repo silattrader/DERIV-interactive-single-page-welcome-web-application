@@ -1,0 +1,6 @@
+{
+  "name": "Deriv — Plain-English Trading Welcome",
+  "description": "Understand how Deriv works in 10 seconds: trade global and 24/7 synthetic markets with built-in risk control, starting with a free $10,000 practice account.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
